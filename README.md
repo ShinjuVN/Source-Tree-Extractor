@@ -59,7 +59,7 @@ SourceTreeExtractor/
 ## Cách 1: Cài đặt & chạy bằng file thực thi (.exe) — dành cho người dùng thường
 
 1. Truy cập vào mục **[Releases](../../releases#release-Source-Tree-Extractor-Install)** của dự án trên GitHub.
-2. Tải về file cài đặt mới nhất: **[Setup-STE.exe](https://github.com/ShinjuVN/Source-Tree-Extractor/releases/download/Source-Tree-Extractor-Install/Setup-STE.exe)** (hoặc bản Portable **[Source-Tree-Extractor-Portable.exe](https://github.com/ShinjuVN/Picture-Lite/releases/download/Source-Tree-Extractor-Install/Source-Tree-Extractor-Portable.exe)** nếu không muốn cài đặt).
+2. Tải về file cài đặt mới nhất: **[Setup-STE.exe](https://github.com/ShinjuVN/Source-Tree-Extractor/releases/download/Source-Tree-Extractor-Install/Setup-STE.exe)** (hoặc bản Portable **[Source-Tree-Extractor-Portable.exe](../../releases#release-Source-Tree-Extractor-Install)** nếu không muốn cài đặt).
 3. Mở file **setup-Picture-Lite.exe** vừa tải về, làm theo các bước hướng dẫn trên màn hình cài đặt (chọn đường dẫn cài đặt, bấm *Next*).
 4. Sau khi hoàn tất, bạn có thể khởi chạy ứng dụng trực tiếp từ **Shortcut ngoài Desktop** hoặc trong Menu Start.
 

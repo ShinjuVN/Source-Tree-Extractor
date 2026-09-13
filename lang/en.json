@@ -1,0 +1,33 @@
+{
+  "language_code": "en",
+  "language_name": "English (EN-en)",
+
+  "app_title": "Source Tree Extractor",
+  "btn_choose_folder": "Choose Folder",
+  "btn_export": "Export File",
+
+  "chk_export_tree": "Export folder/file tree",
+  "chk_export_content": "Extract file contents",
+
+  "lbl_no_folder": "No folder selected",
+
+  "settings_title": "Settings",
+  "settings_language": "Language",
+  "settings_default_filename": "Default export filename",
+  "settings_ignored_ext": "Ignored file extensions (comma-separated, e.g. .png, .jpg, .zip)",
+  "settings_ignored_folders": "Ignored folders (comma-separated, e.g. .git, node_modules)",
+
+  "btn_save": "Save",
+  "btn_cancel": "Cancel",
+  "settings_saved": "Settings saved.",
+
+  "msg_select_option_first": "Please select at least one option: Export folder/file tree or Extract file contents.",
+  "msg_no_content_to_export": "No content to export yet. Please choose a folder first.",
+  "msg_export_success": "File saved at:\n{path}",
+  "msg_export_error": "Could not save file:\n{error}",
+  "msg_scan_error": "Could not scan folder:\n{error}",
+
+  "tree_header": "DIRECTORY TREE",
+  "content_header": "FILE CONTENTS",
+  "binary_skip_note": "[Binary/unsupported file - content skipped]"
+}

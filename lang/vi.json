@@ -1,0 +1,33 @@
+{
+  "language_code": "vi",
+  "language_name": "Tiếng Việt (VN-vi)",
+
+  "app_title": "Source Tree Extractor",
+  "btn_choose_folder": "Chọn Folder",
+  "btn_export": "Xuất File",
+
+  "chk_export_tree": "Xuất sơ đồ thư mục",
+  "chk_export_content": "Trích xuất nội dung file",
+
+  "lbl_no_folder": "Chưa chọn thư mục nào",
+
+  "settings_title": "Cài đặt",
+  "settings_language": "Ngôn ngữ",
+  "settings_default_filename": "Tên file xuất mặc định",
+  "settings_ignored_ext": "Định dạng file bỏ qua (phân cách bằng dấu phẩy, ví dụ: .png, .jpg, .zip)",
+  "settings_ignored_folders": "Thư mục bỏ qua (phân cách bằng dấu phẩy, ví dụ: .git, node_modules)",
+
+  "btn_save": "Lưu",
+  "btn_cancel": "Hủy",
+  "settings_saved": "Đã lưu cài đặt.",
+
+  "msg_select_option_first": "Vui lòng chọn ít nhất một tuỳ chọn: Xuất sơ đồ thư mục hoặc Trích xuất nội dung file.",
+  "msg_no_content_to_export": "Chưa có nội dung để xuất. Hãy chọn thư mục trước.",
+  "msg_export_success": "Đã lưu file tại:\n{path}",
+  "msg_export_error": "Không thể lưu file:\n{error}",
+  "msg_scan_error": "Không thể quét thư mục:\n{error}",
+
+  "tree_header": "SƠ ĐỒ THƯ MỤC",
+  "content_header": "NỘI DUNG CÁC FILE",
+  "binary_skip_note": "[File nhị phân/không hỗ trợ đọc nội dung - đã bỏ qua]"
+}

@@ -1,0 +1,18 @@
+{
+  "language": "vi",
+  "default_output_filename": "source.txt",
+  "export_tree": true,
+  "export_content": true,
+  "ignored_extensions": [
+    ".png", ".jpg", ".jpeg", ".gif", ".bmp", ".ico", ".webp", ".tiff",
+    ".mp3", ".mp4", ".avi", ".mov", ".wmv", ".flac", ".wav", ".ogg", ".mkv",
+    ".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".xz", ".iso",
+    ".exe", ".dll", ".so", ".bin", ".dat", ".class", ".pyc", ".o", ".obj",
+    ".pdf", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx",
+    ".ttf", ".otf", ".woff", ".woff2", ".eot",
+    ".db", ".sqlite", ".sqlite3", ".jar", ".war", ".apk"
+  ],
+  "ignored_folders": [
+    ".git", "__pycache__", "node_modules", ".venv", "venv", ".idea", ".vscode"
+  ]
+}
